@@ -2,3 +2,4 @@ Gitの練習用
 基本的なワークフローを学びますよ。
 ・git add
 ・git commit
+・git commit -v
